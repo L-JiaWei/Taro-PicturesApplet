@@ -1,0 +1,8 @@
+
+.pic{
+    text-align:center;
+}
+.resize{
+  border-radius: 16rpx;
+}
+

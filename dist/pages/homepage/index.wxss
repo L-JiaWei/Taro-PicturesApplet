@@ -1,0 +1,26 @@
+
+.index {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  height:100vh;
+}
+.infiniteLi {
+  margin-top: 20rpx;
+  text-align: center;
+}
+.resize{
+  border-radius: 16rpx;
+}
+.author{
+    margin-top: 20rpx;
+    font-size:38rpx;
+    font-weight:bold;
+    margin-bottom: 40rpx;
+}
+.del2{
+    left: 10rpx;
+    top: 4rpx;
+}
+

@@ -1,0 +1,32 @@
+.index {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  height: 100vh;
+}
+.infiniteUl {
+  height: 1200rpx;
+  width: 750rpx;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.infiniteLi {
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  text-align: center;
+}
+.author {
+  margin-top: 20rpx;
+  font-size: 38rpx;
+  font-weight: bold;
+  margin-bottom: 40rpx;
+}
+.star {
+  color: yellow;
+  left: 20rpx;
+  top: 4rpx;
+}
+.resize {
+  border-radius: 16rpx;
+}
